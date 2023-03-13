@@ -13,8 +13,4 @@
 10. Write a function that finds all multiples of 2 in a list.
 11. Write a function that deletes the item at a specific position in a list.
 12. Complete the source code in order to switch value of a and b
-
-You can find the source code here
-Your code should be inserted where the comment is (line 4)
-Your program should be exactly 5 lines long
-13. Write a function in C that checks if a singly linked list is a palindrome.
+13. You can find the source code here Your code should be inserted where the comment is (line 4) Your program should be exactly 5 lines long 13. Write a function in C that checks if a singly linked list is a palindrome.

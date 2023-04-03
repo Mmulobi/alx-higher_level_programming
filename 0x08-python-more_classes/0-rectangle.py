@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-Define an empty rectangle
+Defines Empty class Rectangle
 """
+
 
 class Rectangle():
     """

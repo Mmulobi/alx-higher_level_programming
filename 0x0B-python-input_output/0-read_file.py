@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Contains function that reads and prints contents from file

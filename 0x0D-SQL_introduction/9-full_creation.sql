@@ -1,4 +1,4 @@
---This create a new table and fill with data
+-- create a new table and fill with data
 
 CREATE TABLE IF NOT EXISTS second_table (
        id INT,

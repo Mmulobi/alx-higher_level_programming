@@ -1,4 +1,4 @@
---This display all records of the  data in table
+-- display all records of the  data in table
 -- ordered from greatest to least
 
 
